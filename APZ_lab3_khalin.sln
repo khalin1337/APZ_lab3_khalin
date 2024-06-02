@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APZ_lab3_khalin", "APZ_lab3_khalin\APZ_lab3_khalin.csproj", "{005D4ECB-24D8-459E-A677-F7F61758063A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005D4ECB-24D8-459E-A677-F7F61758063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005D4ECB-24D8-459E-A677-F7F61758063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005D4ECB-24D8-459E-A677-F7F61758063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005D4ECB-24D8-459E-A677-F7F61758063A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21CC1D00-BF5D-4CB2-9EA1-EBE230C7DD3C}
+	EndGlobalSection
+EndGlobal
